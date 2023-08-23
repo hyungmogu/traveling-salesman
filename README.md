@@ -7,7 +7,11 @@ Apache Kafka is used to handle a large number of requests. Once a user (consumer
 
 ## Requirements and Resource Estimation
 
+### Resource Estimation
 
+1. 250,000 vehicles are assumed based on this [data](https://www.fedex.com/en-us/about/company-structure.html) here. 
+
+2. Including refresh, 2,500,000 requests (250,000 * 10 requests = 2,500,000 reuqests) are assumed.
 
 ## Diagrams
 
