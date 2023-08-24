@@ -9,6 +9,8 @@ Apache Kafka is used to handle a large number of requests. Once a user (consumer
 
 CircleCI is chosen as CICD solution (for now) to reduce development time. The integration and deployment templates are already prepared in previous project (please see [udacity-cloud-devops-project-5](https://github.com/hyungmogu/udacity-cloud-devops-project-5) repository). In sum, working with already prepared CICD solution would free up time and resource to focus on area where needed.
 
+## In Defense of My Choice of Traveling Salesman Problem Solution
+
 ## Requirements and Resource Estimation
 
 ### Resource Estimation
