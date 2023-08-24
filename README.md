@@ -21,3 +21,4 @@ CircleCI is chosen as CICD solution (for now) to reduce development time. The in
 
 ## References
 
+1. Marc Kuo. Traveling Salesman Problem for Deliveries. Routific. https://blog.routific.com/blog/travelling-salesman-problem
